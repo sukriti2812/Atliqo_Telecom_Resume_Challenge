@@ -14,3 +14,11 @@ AtliQo’s business director requested their analytics team to provide a compari
 The target audience of this dashboard is top-level management - hence the dashboard should be self-explanatory and easy to understand.
 
 2. Create relevant insights not provided in the metric list/mock-up dashboard to support the cause.
+
+### Dataset/Problem Files
+
+Download here : [Codebasics Resume Challenge 3](https://codebasics.io/event/codebasics-resume-project-challenge)
+
+### Linkedin Post
+
+[Post](https://www.linkedin.com/posts/sukritishah_codebasics-codebasics-codebasicsresumeprojectchallenge-activity-7015341152849539072-tSdl?utm_source=share&utm_medium=member_desktop)
