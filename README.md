@@ -15,6 +15,11 @@ The target audience of this dashboard is top-level management - hence the dashbo
 
 2. Create relevant insights not provided in the metric list/mock-up dashboard to support the cause.
 
+### Dashboard
+![Screenshot 1](https://user-images.githubusercontent.com/58556052/226094675-8d1d7a9b-9bae-4fe9-85e5-e04629ed74d8.png)
+![Screenshot 2023-03-18 140416](https://user-images.githubusercontent.com/58556052/226095000-4973d68b-2711-418f-afbb-5d7d577fe2da.png)
+![Screenshot 2023-03-18 141044](https://user-images.githubusercontent.com/58556052/226095094-34bf6da8-1f3f-4da5-b184-c12855162fbb.png)
+
 ### Dataset/Problem Files
 
 Download here : [Codebasics Resume Challenge 3](https://codebasics.io/event/codebasics-resume-project-challenge)
